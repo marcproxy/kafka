@@ -1,0 +1,30 @@
+# Elasticsearch et Kibana
+elasticsearch/
+kibana/
+
+# Fichiers volumineux
+*.zip
+*.dylib
+*.app
+**/node_modules/
+**/chrome-mac/
+**/.chromium/
+
+# Java/Maven
+target/
+*.jar
+*.war
+*.class
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
